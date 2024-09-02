@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+This is a template downloaded from the internet and isn't trying to acquire ownership
 
 Template Name: AgriCulture
 Template URL: https://bootstrapmade.com/agriculture-bootstrap-website-template/
